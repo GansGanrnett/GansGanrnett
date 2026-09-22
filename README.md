@@ -1,5 +1,4 @@
 ![Header](./banner_github.jpg)
-![Header](./banner.png)
 
 ## 🇬🇧 English
 
