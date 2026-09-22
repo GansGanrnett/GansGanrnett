@@ -1,4 +1,4 @@
-![Header](./banner.jpg)
+![Header](./banner_github.jpg)
 
 ## 🇬🇧 English
 
